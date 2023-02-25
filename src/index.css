@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dropdown {
+  width: 20rem;
+  border-radius: 5px;
+}
